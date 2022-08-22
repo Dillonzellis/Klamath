@@ -39,7 +39,7 @@
                 <?php include 'inc/header.php'; ?>
             </div><!-- end row -->
         </div><!-- end container -->
-        <p style="padding:15px; background:yellow; font-size: 18px;" align="center"><strong>Virtual Branch, Mobile App and Audio Response will be down for system maintenance starting at 5:00 PM, Monday May 16th. We hope to have these services available within a couple of hours. We apologize for any inconvenience this may cause.</strong></p>
+<!--        <p style="padding:15px; background:yellow; font-size: 18px;" align="center"><strong>Virtual Branch, Mobile App and Audio Response will be down for system maintenance starting at 5:00 PM, Monday May 16th. We hope to have these services available within a couple of hours. We apologize for any inconvenience this may cause.</strong></p>-->
     </header>
     <!-- ::: END ::: -->
 
@@ -76,32 +76,33 @@
       		<div class="carousel-caption">
            		<h1 data-animation="animated fadeIn">July loan special.</h1>
            		<p data-animation="animated fadeIn">Auto rates as low as 1% O.A.C., RV Rates as low as 4% O.A.C. <br>and Boats as low as 3% O.A.C.</p>
-				<!--<p data-animation="animated fadeIn"><a class="btn btn-prime" href="https://www.kpefcu.com/pages/auto-loan.php">Learn More Now <i class="fa fa-angle-double-right"></i></a></p>
+				<p data-animation="animated fadeIn"><a class="btn btn-prime" href="https://www.kpefcu.com/pages/auto-loan.php">Learn More Now <i class="fa fa-angle-double-right"></i></a></p>
       		</div>
     	</div>-->
 
             <!-- start carousel item -->
-            <div class="item leftG active">
+            <!-- <div class="item leftG active" style="display: none;">
                 <div class="grad"></div>
                 <img class="img-responsive" src="images/slider/summer-rv.jpg" alt="Recreational Vehicle Loan" />
                 <div class="carousel-caption">
                     <h1 data-animation="animated fadeIn">Take your road<br>trip up a notch!</h1>
                     <p data-animation="animated fadeIn">RV rates including all Travel Trailer, Toy Hauler, Camper and<br>Motorhome’s as low as 3.5% o.a.c. and Boat rates as low as 2.5% o.a.c.</p>
-                    <p data-animation="animated fadeIn"><a class="btn btn-prime" href="https://www.kpefcu.com/pages/rec-vehicle.php">Learn More Now <i class="fa fa-angle-double-right"></i></a></p>
-                </div><!-- carousel caption -->
-            </div>
+                    <p data-animation="animated fadeIn"><a class="btn btn-prime" href="https://www.kpefcu.com/pages/rec-vehicle.php">Learn More Now <i class="fa fa-angle-double-right"></i></a></p> -->
+                <!-- </div> -->
+                <!-- carousel caption -->
+            <!-- </div> -->
             <!-- end carousel item -->
 
             <!-- start carousel item -->
-            <div class="item rightG">
+            <!--<div class="item rightG active">
                 <div class="grad"></div>
                 <img class="img-responsive" src="images/slider/heloc.jpg" alt="Home Equity Line of Credit" />
                 <div class="carousel-caption">
                     <h1 data-animation="animated fadeIn">Did you know we offer Home Equity Line of Credit loans?</h1>
                     <p data-animation="animated fadeIn">HELOC's are a great way to use funds from the equity in your home for various different updates or purchases. Come and see us today for all your home improvement needs.</p>
                     <p data-animation="animated fadeIn"><a class="btn btn-prime" href="pages/home-loan.php">Learn More Now <i class="fa fa-angle-double-right"></i></a></p>
-                </div><!-- carousel caption -->
-            </div>
+                </div>
+            </div>-->
             <!-- end carousel item -->
 
             <!-- start carousel item -->
@@ -117,7 +118,7 @@
             <!-- end carousel item -->
 
             <!-- start carousel item -->
-            <div class="item centerG">
+            <div class="item centerG active">
                 <div class="grad2"></div>
                 <img class="img-responsive" src="images/slider/notice.jpg" alt="Fraud Notice" />
                 <div class="carousel-caption">
