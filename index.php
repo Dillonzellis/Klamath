@@ -5,18 +5,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <title>Klamath Public Employees FCU - Home</title>
-    <meta name="description"
-        content="Klamath Public Employees Federal Credit Union was originally known as Klamath Falls United States Employees and served only employees of the Federal Government.">
-    <meta name="keywords"
-        content="Klamath Public Employees Federal Credit Union, KPEFCU, Klamath Falls, credit union, federal credit union, Klamath Falls Credit Union">
+    <meta name="description" content="Klamath Public Employees Federal Credit Union was originally known as Klamath Falls United States Employees and served only employees of the Federal Government.">
+    <meta name="keywords" content="Klamath Public Employees Federal Credit Union, KPEFCU, Klamath Falls, credit union, federal credit union, Klamath Falls Credit Union">
 
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <!-- Google Font Code -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,700i,800%7COverlock:400,400i,700,700i,900,900i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,vietnamese"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,700i,800%7COverlock:400,400i,700,700i,900,900i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,vietnamese" rel="stylesheet">
 
     <!-- Stylesheets -->
     <link href="css/combine-test.css" rel="stylesheet">
@@ -125,22 +121,20 @@
             <!-- start carousel item -->
             <div class="item centerG active">
                 <div class="grad2"></div>
-                <img class="img-responsive" src="images/slider/notice.jpg" alt="Merging Notice" />
+                <img class="img-responsive" src="images/slider/better-together.png" alt="Merging Notice" />
                 <div class="carousel-caption">
                     <h1 data-animation="animated fadeIn">BETTER TOGETHER!</h1>
                     <p data-animation="animated fadeIn">The boards of Pacific Crest Federal Credit Union and Klamath
                         Public Employees Federal Credit Union have recently voted and passed resolutions of intent to
                         merge.</p>
-                    <p data-animation="animated fadeIn"><a class="btn btn-prime"
-                            href="https://kpefcu.com/pages/news.php">Read More<i
-                                class="fa fa-angle-double-right"></i></a></p>
+                    <p data-animation="animated fadeIn"><a class="btn btn-prime" href="https://kpefcu.com/pages/news.php">Read More<i class="fa fa-angle-double-right"></i></a></p>
                 </div><!-- carousel caption -->
             </div>
             <!-- end carousel item -->
 
 
             <!-- start carousel item -->
-            <div class="item centerG active">
+            <div class="item centerG">
                 <div class="grad2"></div>
                 <img class="img-responsive" src="images/slider/notice.jpg" alt="Fraud Notice" />
                 <div class="carousel-caption">
@@ -163,9 +157,7 @@
                 <div class="carousel-caption">
                     <h1 data-animation="animated fadeIn">Get your dream car today!</h1>
                     <p data-animation="animated fadeIn">For more information on rates or to apply click below.</p>
-                    <p data-animation="animated fadeIn"><a class="btn btn-prime"
-                            href="https://www.kpefcu.com/pages/auto-loan.php">Learn More Now <i
-                                class="fa fa-angle-double-right"></i></a></p>
+                    <p data-animation="animated fadeIn"><a class="btn btn-prime" href="https://www.kpefcu.com/pages/auto-loan.php">Learn More Now <i class="fa fa-angle-double-right"></i></a></p>
                 </div><!-- carousel caption -->
             </div>
             <!-- end carousel item -->
@@ -174,14 +166,11 @@
         </div><!-- start carousel inner -->
 
         <!-- Controls -->
-        <a class="left carousel-control" href="#image-slider" data-slide="prev"><span
-                style="display:none;">Previous</span>
-            <img class="svg" src="images/svg/arrow-left-w.svg" onerror="this.src='images/svg/arrow-left-w.png'"
-                alt="Prev" />
+        <a class="left carousel-control" href="#image-slider" data-slide="prev"><span style="display:none;">Previous</span>
+            <img class="svg" src="images/svg/arrow-left-w.svg" onerror="this.src='images/svg/arrow-left-w.png'" alt="Prev" />
         </a>
         <a class="right carousel-control" href="#image-slider" data-slide="next"><span style="display:none;">Next</span>
-            <img class="svg" src="images/svg/arrow-right-w.svg" onerror="this.src='images/svg/arrow-right-w.png'"
-                alt="Next" />
+            <img class="svg" src="images/svg/arrow-right-w.svg" onerror="this.src='images/svg/arrow-right-w.png'" alt="Next" />
         </a>
     </div>
     <!-- ::: END HOME SLIDER  ::: -->
@@ -195,8 +184,7 @@
                     <div class="box box1">
                         <h3>CALCULATORS</h3>
                         <p>Need help with some financial calculations? We may have a calculator that can help.</p>
-                        <a class="abs btn btn-service1" href="pages/calculators.php">Learn More <i
-                                class="fa fa-angle-double-right"></i></a>
+                        <a class="abs btn btn-service1" href="pages/calculators.php">Learn More <i class="fa fa-angle-double-right"></i></a>
                     </div>
                 </div>
 
@@ -204,8 +192,7 @@
                     <div class="box box2">
                         <h3>NEWS</h3>
                         <p>Check out what is happening at the Credit Union!<br><br></p>
-                        <a class="abs btn btn-service2" href="pages/news.php">Read More <i
-                                class="fa  fa-angle-double-right"></i></a>
+                        <a class="abs btn btn-service2" href="pages/news.php">Read More <i class="fa  fa-angle-double-right"></i></a>
                     </div>
                 </div>
 
@@ -246,9 +233,7 @@
                             <!-- start service -->
                             <div class="listBox">
                                 <div class="image">
-                                    <a href="pages/auto-loan.php"><img class="img-responsive"
-                                            src="images/services/small/auto-loan.jpg" width="150" height="150"
-                                            alt="Auto Loans" /></a>
+                                    <a href="pages/auto-loan.php"><img class="img-responsive" src="images/services/small/auto-loan.jpg" width="150" height="150" alt="Auto Loans" /></a>
                                 </div><!-- end Image -->
                                 <div class="content">
                                     <h4><a href="pages/auto-loan.php">Auto Loan</a></h4>
@@ -262,9 +247,7 @@
                             <!-- start service -->
                             <div class="listBox">
                                 <div class="image">
-                                    <a href="pages/home-loan.php"><img class="img-responsive"
-                                            src="images/services/small/home-loan.jpg" width="150" height="150"
-                                            alt="Auto Loans" /></a>
+                                    <a href="pages/home-loan.php"><img class="img-responsive" src="images/services/small/home-loan.jpg" width="150" height="150" alt="Auto Loans" /></a>
                                 </div><!-- end Image -->
                                 <div class="content">
                                     <h4><a href="pages/home-loan.php">Home Loans</a></h4>
@@ -279,9 +262,7 @@
                             <!-- start service -->
                             <div class="listBox">
                                 <div class="image">
-                                    <a href="pages/student-loans.php"><img class="img-responsive"
-                                            src="images/services/small/student-loan.jpg" width="150" height="150"
-                                            alt="Student Loans Image" /></a>
+                                    <a href="pages/student-loans.php"><img class="img-responsive" src="images/services/small/student-loan.jpg" width="150" height="150" alt="Student Loans Image" /></a>
                                 </div><!-- end Image -->
                                 <div class="content">
                                     <h4><a href="pages/student-loans.php">Student Loans</a></h4>
@@ -295,9 +276,7 @@
                             <!-- start service -->
                             <div class="listBox">
                                 <div class="image">
-                                    <a href="pages/credit-cards.php"><img class="img-responsive"
-                                            src="images/services/small/credit-cards.jpg" width="150" height="150"
-                                            alt="Auto Loans" /></a>
+                                    <a href="pages/credit-cards.php"><img class="img-responsive" src="images/services/small/credit-cards.jpg" width="150" height="150" alt="Auto Loans" /></a>
                                 </div><!-- end Image -->
                                 <div class="content">
                                     <h4><a href="pages/credit-cards.php">Credit Cards</a></h4>
